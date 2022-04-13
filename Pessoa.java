@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class Pessoa {
     //atributos
     private String nome;

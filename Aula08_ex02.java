@@ -15,6 +15,5 @@ public class Aula08_ex02 {
         p.setaltura(altura);
         p.exibedados();
     }
-    
 }
 
